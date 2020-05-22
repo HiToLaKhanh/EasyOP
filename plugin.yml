@@ -1,0 +1,13 @@
+---
+name: EasyOP
+version: 0.0.1
+main: HiToLaKhanh\EasyOP\Main
+api: 3.12.
+author: HiToLaKhanh
+
+commands:
+ eop:
+  description: Gives the specified player operator status
+  permission: eop.command
+  default: op
+...
